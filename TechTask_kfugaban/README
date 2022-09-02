@@ -1,0 +1,7 @@
+IDE: XCode
+iOS Deployment Target: 15.5
+Language: Swift 5
+Interface: SwiftUI
+
+How to run build:
+- XCode -> Product -> Run
